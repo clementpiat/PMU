@@ -1,0 +1,187 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+0,0,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,1,Eclair Mace,H,4,False,Th.Dromigny,G.Contri,18070,"[8, 6, 5, 7]",[],63,155,5,84.16666666666667
+1,1,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,2,Espion Jaune,H,4,False,A.Abrivard,Ch.Clin,43790,"[2, 4, 1]",[7],8.3,10,False,False
+2,2,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,3,Easy Turgot,H,4,deferre_posterieurs,V.Saussaye,S.Roger,46200,"[7, 8]","[4, 'D']",21,54,4,76.5
+3,3,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,4,Elino Bilou,H,4,False,M.Abrivard,Th.Duvaldestin,57610,"[1, 2, 1, 'D']",[],1.9,2,2,74.0
+4,4,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,5,Excelsior,H,4,deferre_anterieurs_posterieurs,Y.Lebourgeois,J.p.Allix,66090,"[5, 3, 2, 2]",[],3.7,2.6,False,74.0
+5,5,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,6,El Diablo D'aut,M,4,deferre_posterieurs,E.Raffin,V.Raimbault,67610,[],"['D', 1, 6, 4]",6.8,8.2,3,74.16666666666667
+6,6,VINCENNES, 13h07,1 Jan,60000,2175,7,gauche,10,40,7,Espoir Anvalou,M,4,False,A.Lamy,A.Dubois,68670,['D'],"['D', 'D', 6]",17,22,False,False
+7,64,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,1,Bombe De Caillo.,F,7,False,Mlle.ClaraDersoir,MmeC.Hallais-de.,107790,"[6, 6, 9]",['D'],38,109,9,76.66666666666667
+8,65,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,2,Bali Du Pouet D.,F,7,False,Mlle.Ch.Lefebvre,MmeG.Masschaele,107900,"[3, 5, 3]",[9],31,48,1,77.16666666666667
+9,66,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,3,Benjamine Gede,F,7,deferre_posterieurs,L.Jublot,A.Pillon,139780,"[3, 7, 'D']",[0],20,24,3,76.33333333333333
+10,67,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,4,Belle Katie,F,7,deferre_anterieurs_posterieurs,J.y.Ricart,J.m.Bazire,146490,"[2, 'D']","['D', 0]",4.5,4.3,6,76.0
+11,68,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,5,Barack,H,7,False,Mlle.O.Briand,L.cl.Abrivard,151260,"[4, 3, 'D', 5]",[],14,12,7,76.16666666666667
+12,69,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,6,Bolero Du Levant,H,7,deferre_anterieurs,A.Rebeche,D.Bethouart,155730,"[1, 2, 3]",[2],2.8,3,False,75.83333333333333
+13,70,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,7,Beltis D'occagn.,F,7,deferre_posterieurs,R.Marty,A.RipollRigo,157500,"[4, 1, 0]",[8],15,8.8,5,76.5
+14,71,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,8,Bad Boy Terrie,H,7,False,A.Angot,B.Angot,160880,"['D', 7, 4, 2]",[],28,52,1,77.83333333333333
+15,72,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,9,Baron Du Bourg,H,7,False,J.Balu,J.g.VanEeckhaute,161330,"[1, 5, 0, 4]",[],15,16,2,76.33333333333333
+16,73,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,10,Banco De L'iton,H,7,deferre_anterieurs,M.Pean,HughesLevesque,162590,"[7, 6, 6, 6]",[],43,64,1,78.16666666666667
+17,74,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,11,Ball Trap,H,7,deferre_anterieurs_posterieurs,Mlle.M.Asseline,J.w.Hallais,164540,"[4, 2, 6]",[0],9.2,9,4,76.5
+18,75,VINCENNES, 13h38,1 Jan,52000,2850,12,gauche,10,40,12,Bambino Du Pre,H,7,deferre_anterieurs_posterieurs,V.Saussaye,G.Thorel,168960,"[5, 4]","['D', 0]",8.3,7.5,8,76.16666666666667
+19,94,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,1,Democrat Renka,H,5,False,Mlle.Ch.Lefebvre,E.Varin,13100,[],"[5, 4, 8, 'D']",43,93,False,False
+20,95,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,2,Darius Du Loche.,H,5,False,JulienRaffestin,D.Brohier,13560,"['A', 8]","[8, 5]",11,30,False,False
+21,96,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,3,Diamant De Malac,M,5,False,Th.Viet,J.f.Senet,16870,[],"['D', 6, 'D', 'D']",30,102,6,79.16666666666667
+22,97,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,4,Django Du Jaguy,H,5,False,Th.Dromigny,M.Dupuis,19740,"[7, 'D', 9]",['D'],69,162,8,80.5
+23,98,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,5,Divin,H,5,deferre_anterieurs_posterieurs,M.Mottier,D.Mottier,24910,[5],"['D', 1, 8]",5.7,5.5,False,75.0
+24,99,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,6,Dynamique Style,M,5,False,F.Desmigneux,AndersLindqvist,29730,"[7, 4]","['D', 0]",37,49,False,False
+25,100,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,7,Desir Bay,H,5,deferre_anterieurs_posterieurs,Cl.ch.Vaugrante,J.VanEeckhaute,30950,"[4, 4, 5, 8]",[],10,7.2,3,77.16666666666667
+26,101,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,8,Desir D'ariane,H,5,False,D.Thomain,D.Bethouart,31310,[],"['D', 'D', 'D', 0]",9.2,7.5,False,False
+27,102,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,9,Diademe Du Cebe,H,5,deferre_anterieurs_posterieurs,A.Lamy,F.Leblanc,31600,[],"['D', 0, 7, 8]",3.6,5.4,4,77.5
+28,103,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,10,Deci Dela,H,5,False,F.Nivard,LoicGroussard,32190,"[7, 8, 9, 0]",[],16,22,7,79.5
+29,104,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,11,Domino Thieben,H,5,deferre_anterieurs_posterieurs,F.Lagadeuc,Ch.Ecalard,33420,"[3, 6, 3, 7]",[],5.7,3,2,75.66666666666667
+30,105,VINCENNES, 14h07,1 Jan,34000,2850,13,gauche,10,40,12,Django Leman,H,5,False,A.Angot,M.Bezier,34320,[],"[7, 3, 7, 1]",19,22,5,77.5
+31,106,VINCENNES, 14h38,1 Jan,34000,2850,13,gauche,10,40,13,Dandy Du Rosay,H,5,False,D.Bonne,O.Tirard,35270,"[6, 'D', 'D', 8]",[],28,35,False,False
+32,132,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,1,Castelorienne,F,6,deferre_posterieurs,Ch.Bouteiller,Y.Lizee,27020,"[8, 4]","[9, 4]",50,73,9,77.33333333333333
+33,133,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,2,Cigale D'arry,F,6,False,Mme.M.Morandeau,D.Brohier,28260,"[6, 4, 5, 8]",[],59,90,6,77.16666666666667
+34,134,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,3,Calie De La Com.,F,6,False,L.th.Wissocq,G.Roig-balaguer,40990,"['D', 'D', 2]",['D'],47,50,False,False
+35,135,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,4,Colombe Reynald,F,6,False,Mlle.E.Desmigneux,A.Lannoo,43320,"[0, 6]","[4, 4]",62,79,8,77.0
+36,136,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,5,Classica Musica,F,6,False,D.Castillejo,J.l.Giot,45960,"[5, 4]","['D', 3]",28,42,2,76.0
+37,137,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,6,Capucine Fanac,F,6,deferre_posterieurs,Mlle.O.Herbiniere,L.m.David,50780,"[9, 9]","[3, 4]",42,43,7,77.0
+38,138,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,7,Cumbia Du Derby,F,6,deferre_anterieurs,F.Letonturier,S.Lelievre,53150,"[0, 0]",['D'],101,145,1,78.33333333333333
+39,139,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,8,Cyga De Vandel,F,6,deferre_posterieurs,A.Angot,G.Curens,53690,[],"[5, 'D', 7, 8]",11,15,False,False
+40,140,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,9,Comtesse D'orco,F,6,deferre_anterieurs_posterieurs,R.Marty,F.Rochette,55180,"[4, 6, 'D', 6]",[],13,15,5,77.16666666666667
+41,141,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,10,Castellane Phedo,F,6,deferre_anterieurs_posterieurs,Mlle.O.Briand,P.Touvais,61090,"[3, 6, 5, 'D']",[],5.2,6.4,4,76.83333333333333
+42,142,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,11,Cabale D'enfer,F,6,False,P.Thieulent,G.Delacour,64320,[],"['D', 1, 9, 3]",13,10,False,False
+43,143,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,12,Celiane D'isques,F,6,False,M.Krouchi,F.Chartier,68540,"[4, 4, 6, 1]",[],5.4,4.6,False,75.33333333333333
+44,144,VINCENNES, 14h38,1 Jan,36000,2850,13,gauche,9,18,13,Chipie Du Vivier,F,6,deferre_anterieurs,Mlle.Ch.Lefebvre,Th.Duvaldestin,71870,"[6, 2, 'D', 1]",[],2.4,2.1,3,76.66666666666667
+45,175,VINCENNES, 14h38,1 Jan,34000,2175,16,gauche,9,18,1,Elite Star,F,4,deferre_anterieurs,B.Rochard,D.Lemetayer,False,[],[],43,61,4,77.33333333333333
+46,176,VINCENNES, 14h38,1 Jan,34000,2175,16,gauche,9,18,2,Egee Quesnot,F,4,deferre_anterieurs_posterieurs,E.Raffin,W.Michel,6710,[],"[9, 5, 3, 2]",11,13,False,False
+47,177,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,3,Elisa De Bouteau,F,4,deferre_anterieurs_posterieurs,Mlle.Ch.Lefebvre,M.Dupuis,7130,"[5, 6, 5, 'D']",[],12,21,False,76.0
+48,178,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,4,Eclipse D'arjea.,F,4,False,P.y.Verva,J.l.Dersoir,7780,[],"['D', 3, 2, 3]",9,6.9,7,78.83333333333333
+49,179,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,5,Ecume De Beauli.,F,4,False,M.Mottier,Ph.Rouer,7800,['D'],"['D', 3, 7]",33,29,False,False
+50,180,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,6,Evita Bella,F,4,deferre_anterieurs_posterieurs,Y.Lebourgeois,F.Lindrec,8685,"[7, 3, 4]",[0],8.2,7.5,6,78.33333333333333
+51,181,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,7,Ecoute Moi,F,4,deferre_posterieurs,Mlle.M.Lemonnier,LoicGroussard,9560,"[0, 7, 0]",['D'],111,102,False,False
+52,182,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,8,Enneigee,F,4,False,D.Bonne,S.Lelievre,14430,"[7, 5, 'D']",[7],32,36,False,False
+53,183,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,False,Esquive,False,False,False,False,False,False,False,False,False,False,False,False
+54,184,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,10,Epona De Chenou,F,4,False,JulienRaffestin,L.Lerenard,14990,[],"[6, 2, 2, 6]",14,32,False,False
+55,185,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,11,Electra,F,4,False,Mlle.C.Saout,S.Bouisson,15780,"[5, 4, 2, 3]",[],14,10,False,False
+56,186,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,12,Equidia Best,F,4,deferre_posterieurs,Mlle.C.Jacob,MickaelCormy,15970,"[9, 4, 1]",[8],42,24,3,77.16666666666667
+57,187,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,13,Electra Du Camp,F,4,deferre_anterieurs_posterieurs,A.Barrier,C.Pilfert,16240,"[9, 6, 3]",[8],13,9.7,False,76.0
+58,188,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,14,Ejane,F,4,deferre_anterieurs_posterieurs,A.Garandeau,A.Garandeau,16640,"[5, 5, 2, 2]",[],5.9,6.7,5,78.33333333333333
+59,189,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,False,Eva,False,False,False,False,False,False,False,False,False,False,False,False
+60,190,VINCENNES, 15h17,1 Jan,34000,2175,16,gauche,9,18,16,Etorkizuna,F,4,False,J.Vanmeerbeck,J.Vanmeerbeck,17750,"[2, 5]","[1, 3]",3.7,3.8,2,76.83333333333333
+61,209,VINCENNES, 15h17,1 Jan,46000,2175,9,gauche,9,18,1,Diolida De Cell.,F,5,False,M.Abrivard,F.Provost,38420,"['D', 5, 'D']",[8],28,56,False,False
+62,210,VINCENNES, 15h17,1 Jan,46000,2175,9,gauche,9,18,2,Dame De Fourches,F,5,False,J.Vanmeerbeck,J.Vanmeerbeck,47230,"[8, 6]","[0, 0]",52,159,False,False
+63,211,VINCENNES, 15h17,1 Jan,46000,2175,9,gauche,9,18,3,Divine Beji,F,5,deferre_anterieurs_posterieurs,Mlle.I.Aho,Ph.Billard,53420,"[4, 6, 'D', 7]",[],17,19,2,73.16666666666667
+64,212,VINCENNES, 15h47,1 Jan,46000,2175,9,gauche,9,18,4,Didine Du Digeon,F,5,deferre_anterieurs_posterieurs,E.Raffin,Th.Raffegeau,55580,"[1, 3]","['D', 'D']",5.1,5.8,False,False
+65,213,VINCENNES, 15h47,1 Jan,46000,2175,9,gauche,9,18,5,Dania Beach,F,5,deferre_anterieurs_posterieurs,F.Desmigneux,B.j.Crebas,59660,[4],"[5, 6, 9]",34,42,3,74.0
+66,214,VINCENNES, 15h47,1 Jan,46000,2175,9,gauche,9,18,6,Dune De L'aunay,F,5,deferre_anterieurs_posterieurs,A.Barrier,V.Raimbault,60660,"[8, 3]","[4, 3]",7.1,16,5,74.66666666666667
+67,215,VINCENNES, 15h47,1 Jan,46000,2175,9,gauche,9,18,7,Dis Moi De Houe.,F,5,deferre_anterieurs_posterieurs,F.Nivard,F.Leblanc,61570,"[1, 5, 2, 1]",[],3,2.7,False,73.16666666666667
+68,216,VINCENNES, 15h47,1 Jan,46000,2175,9,gauche,9,18,8,Deesse Du Relais,F,5,deferre_anterieurs_posterieurs,F.Picot,P.l.Rousseau,65450,"[3, 4, 7]",[0],42,43,4,74.16666666666667
+69,217,VINCENNES, 15h47,1 Jan,46000,2175,9,gauche,9,18,9,Dynasty Peji,F,5,deferre_posterieurs,D.Bonne,D.Bonne,66510,"[1, 1, 6]",['D'],2.9,2.2,False,False
+70,376,VINCENNES, 15h47,1 Jan,36000,2175,16,gauche,15,22,1,Estampille,F,4,deferre_posterieurs,GuillaumeMartin,G.Grelier,1100,['D'],['R'],80,136,False,False
+71,377,VINCENNES, 15h47,1 Jan,36000,2175,16,gauche,15,22,2,Ella Paloma,F,4,deferre_anterieurs_posterieurs,P.Marie,P.Marie,4270,"[7, 7]",[],29,60,8,76.33333333333333
+72,378,VINCENNES, 15h47,1 Jan,36000,2175,16,gauche,15,22,3,Etoile De Calix,F,4,False,A.Garandeau,R.ch.Larue,5280,"[8, 3]",[],28,65,False,False
+73,379,VINCENNES, 15h47,1 Jan,36000,2175,16,gauche,15,22,4,Etincelle Delo,F,4,deferre_anterieurs_posterieurs,Y.Lebourgeois,A.Rogier,21360,['D'],['D'],8,11,4,75.33333333333333
+74,380,VINCENNES, 15h47,1 Jan,36000,2175,16,gauche,15,22,5,Excelle Star,F,4,False,M.Mottier,B.Rouer,24100,"[5, 2]",[],9.4,13,5,75.5
+75,381,VINCENNES, 15h47,1 Jan,36000,2175,16,gauche,15,22,6,Elza De Souvigne,F,4,False,Ch.j.Bigeon,F.Provost,24740,[2],[9],21,18,9,76.5
+76,382,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,7,Etincelle De Ro.,F,4,False,L.Abrivard,E.Varin,25120,"[5, 'D']",[],93,122,6,76.33333333333333
+77,383,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,8,Etincelante Ohem,F,4,False,Mlle.AudreyLaroc.,St.Meunier,25340,"['D', 5]",[],38,51,7,76.5
+78,384,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,9,Enola Du Dorat,F,4,False,M.Tijou,ArnaudDesmottes,25550,[1],[5],9.9,8.4,False,74.83333333333333
+79,385,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,10,Estrella D'alesa,F,4,deferre_anterieurs_posterieurs,A.Abrivard,L.cl.Abrivard,25650,"['D', 'D']",[],7.8,6.5,False,False
+80,386,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,11,Edene L'auvergn.,F,4,deferre_anterieurs_posterieurs,D.Bonne,F.Leblanc,26750,"[2, 2]",[],4,2.6,False,False
+81,387,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,12,Evala Des Forets,F,4,False,Mlle.C.Leclercq,MlleC.Leclercq,27420,[5],[9],17,36,1,77.66666666666667
+82,388,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,False,Easy,False,False,False,False,False,False,False,False,False,False,False,False
+83,389,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,14,Esmee De Carel,F,4,deferre_anterieurs_posterieurs,P.y.Verva,G.Gillot,29250,[9],['D'],13,30,2,75.33333333333333
+84,390,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,15,Envoutante Fac,F,4,False,F.Nivard,C.j.DeLeeuw,29440,[],"[9, 0]",28,29,1,82.5
+85,391,VINCENNES, 16h19,1 Jan,36000,2175,16,gauche,15,22,16,Eris De Fredlau,F,4,deferre_posterieurs,A.Barrier,P.Danet,30670,"[2, 3]",[],8.2,7.1,3,75.33333333333333
+86,405,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,1,Balantine Max,F,7,deferre_posterieurs,D.Bonne,D.Bonne,126290,"[3, 1]",[],8,8.7,2,73.5
+87,406,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,2,Belle Louise Ma.,F,7,deferre_posterieurs,E.Raffin,Y.Dreux,163150,[],"[0, 'D']",4,4,False,73.0
+88,407,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,3,Biennale Vrie,F,7,False,F.Nivard,R.Baudron,183210,"[7, 7]",[],24,16,1,78.83333333333333
+89,408,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,4,Aventure Des Is.,F,8,False,Ch.Mottier,G.Delacour,187510,"[2, 1]",[],37,30,6,73.83333333333333
+90,409,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,5,Armenie Du Lupin,F,8,False,A.Wiels,J.p.Marmion,190130,"[2, 'D']",[],22,21,5,73.83333333333333
+91,410,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,6,Aventure Magic,F,8,deferre_anterieurs_posterieurs,Mlle.AudreyLaroc.,St.Meunier,193700,"[3, 8]",[],12,15,1,77.0
+92,411,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,7,Ariane D'and,F,8,False,Cl.Frecelle,F.Furet,201870,[6],[0],87,175,9,74.66666666666667
+93,412,VINCENNES, 16h19,1 Jan,70000,2175,12,gauche,15,22,8,Bixenta Du Gers,F,7,deferre_anterieurs_posterieurs,J.y.Ricart,J.m.Bazire,208410,[4],[0],8.8,9.5,7,73.83333333333333
+94,413,VINCENNES, 16h52,1 Jan,70000,2175,12,gauche,15,22,9,Bambina Du Parc,F,7,False,M.Abrivard,M.Hue,209850,[6],[0],23,33,4,73.66666666666667
+95,414,VINCENNES, 16h52,1 Jan,70000,2175,12,gauche,15,22,10,Breeder's Cup,F,7,deferre_anterieurs_posterieurs,A.Barrier,P.Belloche,217760,"[2, 2]",[],2.8,2.4,False,False
+96,415,VINCENNES, 16h52,1 Jan,70000,2175,12,gauche,15,22,11,Bora Fligny,F,7,deferre_anterieurs_posterieurs,Mlle.L.Drapier,Ch.Chalon,221630,[],"[8, 5]",32,26,3,73.66666666666667
+97,416,VINCENNES, 16h52,1 Jan,70000,2175,12,gauche,15,22,12,Axola D'ablon,F,8,deferre_anterieurs_posterieurs,Th.Dromigny,N.Dromigny,227700,"['D', 8]",[],24,70,8,74.33333333333333
+98,436,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,1,Feeling D'espoir,A,False,False,False,3MartialViel,False,[],[],False,66,1,84.33333333333333
+99,437,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,2,First D'arry,M,3,False,JulienRaffestin,D.Brohier,False,[],[],34,41,4,79.5
+100,438,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,3,Full Du Langis,M,3,False,E.Raffin,J.Lagenebre,False,[],[],18,32,7,80.5
+101,439,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,4,Flamboyant Jiel,M,3,False,Y.Lebourgeois,J.l.Dersoir,1450,[],[5],6.6,7.9,3,78.33333333333333
+102,440,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,5,Fabarm,H,3,False,P.y.Verva,A.Lelodet,1650,[],[],25,34,1,83.83333333333333
+103,441,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,6,Flocon De Noel,M,3,False,J.Vanmeerbeck,P.Daulier,2250,['D'],[7],46,65,False,False
+104,442,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,7,For Ever D'eole,A,False,False,False,3A.Wiels,False,[],[],False,21,5,79.0
+105,443,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,8,Francky D'oudon,M,3,False,F.Gence,A.Leduc,3250,"['D', 2]",[],20,19,False,False
+106,444,VINCENNES, 16h52,1 Jan,35000,2200,16,gauche,15,22,9,Fun De Bellande,M,3,False,A.Collette,S.Hardy,3260,[],"[5, 6]",29,57,9,82.33333333333333
+107,445,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,10,Fevrier Pass,B,False,False,False,3A.Garandeau,False,[],[],False,45,False,False
+108,446,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,11,First Julino,H,3,False,GuillaumeMartin,L.b.Martin,5820,[3],[],13,11,False,False
+109,447,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,12,Fado Du Chene,M,3,False,P.ph.Ploquin,J.LeMer,5850,[],[],5.2,3.8,False,77.0
+110,448,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,13,Floray Vedaquais,M,3,False,M.Abrivard,E.Varin,7400,['D'],[6],15,20,6,79.83333333333333
+111,449,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,14,Felino De Bry,M,3,False,R.Derieux,R.Derieux,7700,[],"['D', 8]",21,32,8,80.0
+112,450,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,15,Fiaschetto,B,False,False,False,3M.Daougabel,False,[],[],False,13,2,78.16666666666667
+113,451,VINCENNES, 17h18,1 Jan,35000,2200,16,gauche,15,22,16,Flying Dream,M,3,False,A.Barrier,Ph.Allaire,13320,[],"['D', 3]",4.5,3.6,False,False
+114,705,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,1,Cesar De Villie.,H,6,deferre_anterieurs,J.Grenouilleau,S.Michel-,46320,[5],[0],33,47,False,False
+115,706,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,2,Bise Baroque,A,False,deferre_anterieurs_posterieurs,False,MlleNoemieHardy,False,[],[],False,8.5,2,75.6
+116,707,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,3,Biadjo De Jelma,H,7,False,F.Letonturier,X.Quere-,48640,"[9, 7]",[],61,63,False,False
+117,708,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,4,Blas De Boussie.,H,7,False,Mlle.C.Marchand,DavidRadomski-,48910,"[8, 9]",[],51,88,5,75.78333333333333
+118,709,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,5,Balzan,H,7,deferre_posterieurs,Mlle.J.Juille,Th.Gauchet-,49050,['D'],[5],49,59,False,False
+119,710,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,6,Bernardo Du Bou.,H,7,False,False,LoicGroussard-,49110,[],"[0, 9]",213,157,False,False
+120,711,VINCENNES, 17h18,1 Jan,16000,3000,20,gauche,15,37,7,Capucinette,F,6,False,A.Angot,J.ph.Raffegeau-,49710,"[3, 'D']",[],11,13,False,75.33333333333333
+121,712,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,8,Bobsilure,0,False,deferre_anterieurs_posterieurs,False,MlleD.Besse,False,[],[],False,10,4,75.76666666666667
+122,713,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,False,Brise,False,False,False,False,False,False,False,False,False,False,False,False
+123,714,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,10,Circe De Tramon,F,6,deferre_posterieurs,Mlle.L.Planchena.,E.Planchenault-,51320,"['D', 8]",[],16,12,8,76.0
+124,715,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,11,Akila Du Vieuxc.,F,8,False,A.Voisin,R.Gougeon-,59450,"[8, 2]",[],27,22,9,75.3
+125,716,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,12,Argot De Keryann,H,8,False,G.Lenain,M.Varin-,59660,"[0, 6]",[],142,181,False,False
+126,717,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,13,Betty De Malabry,F,7,False,K.Petitjean,F.Leblanc-,72170,[6],['D'],18,27,6,75.51666666666667
+127,718,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,14,Antilope D'epui.,F,8,deferre_anterieurs,M.Heurtebise,B.Guilloux-,77180,[],"[2, 5]",17,11,False,False
+128,719,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,15,Balou Du Paou,H,7,deferre_anterieurs_posterieurs,C.Ferre,Y.j.LeBezvoet,79540,"[4, 3]",[],12,12,7,75.51666666666667
+129,720,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,False,Bacilly,False,False,False,False,False,False,False,False,False,False,False,False
+130,721,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,17,Boy Of God,H,7,deferre_posterieurs,M.Krouchi,Ch.Dreux-,82510,"[6, 8]",[],5.9,4.3,3,75.28333333333333
+131,722,ECHUCA, 11h12,1 Jan,16000,3000,20,gauche,15,37,18,Brise De Memart.,F,7,False,J.Lehericey,H.Gilles-,82780,"[8, 8]",[],22,29,False,False
+132,723,VINCENNES, 12h40,2 Jan,16000,3000,20,gauche,15,37,19,Bruce Stelaroz,H,7,deferre_anterieurs_posterieurs,M.Pean,S.g.Dupont-,83460,"[4, 2]",[],4.7,5.5,1,75.31666666666666
+133,724,VINCENNES, 12h40,2 Jan,16000,3000,20,gauche,15,37,20,Anow Djin,A,False,deferre_anterieurs_posterieurs,False,8P.Geray,False,[],[],False,44,False,False
+134,753,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,1,Ursulo De Carel,H,10,False,ChristopherCorbi.,MlleM.a.Goetz,122320,['D'],[6],42,34,5,76.16666666666667
+135,754,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,2,Univers D'olive.,H,10,False,F.Desmigneux,Ph.Deroyand,125830,"[8, 1]",[],9.8,6.6,False,False
+136,755,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,3,Vilem De Beauvo.,A,False,deferre_anterieurs_posterieurs,False,9C.Toussaint,False,[],[],False,43,7,76.33333333333333
+137,756,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,4,Uristan De Bren.,H,10,deferre_anterieurs_posterieurs,Mlle.E.Callier,P.Callier,141270,"[7, 'D']",[],14,16,False,False
+138,757,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,5,Un Beau Jour,H,10,deferre_anterieurs_posterieurs,Mme.LaetitiaGout,T.Aguiar,146270,"[9, 'D']",[],24,51,False,False
+139,758,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,6,Aurore De Mael,F,8,deferre_anterieurs_posterieurs,Mlle.M.Blot,MmeF.Blot-cariot,149100,"[0, 6]",[],17,24,False,76.33333333333333
+140,759,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,7,Vazarka Max,F,9,deferre_anterieurs_posterieurs,A.Lamy,M.Bouchez,153240,"[0, 3]",[],4.3,4.7,1,77.33333333333333
+141,760,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,8,Accroche Coeur,A,False,deferre_anterieurs_posterieurs,False,8K.Thonnerieux,False,[],[],False,21,9,77.16666666666667
+142,761,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,9,Vif D'or Blanc,H,9,deferre_anterieurs_posterieurs,Mlle.E.Desmigneux,J.f.Senet,153970,"['D', 1]",[],5.7,5.5,4,76.0
+143,762,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,10,Uppercut Du Ban.,H,10,deferre_posterieurs,W.Baudy,W.Baudy,154990,[0],['D'],42,49,8,76.5
+144,763,VINCENNES, 12h40,2 Jan,32000,2925,16,gauche,18,3,11,Uriako De Villi.,M,10,False,Mlle.M.Ducre,T.Aguiar,160620,[2],['D'],65,27,False,False
+145,764,VINCENNES, 13h12,2 Jan,32000,2925,16,gauche,18,3,12,Valderic,A,False,False,False,9R.Thonnerieux,False,[],[],False,65,2,76.33333333333333
+146,765,VINCENNES, 13h12,2 Jan,32000,2925,16,gauche,18,3,13,Unctuous Charm,H,10,deferre_anterieurs_posterieurs,P.y.Verva,G.Thorel,164005,[],"['D', 'D']",23,17,1,77.33333333333333
+147,766,VINCENNES, 13h12,2 Jan,32000,2925,16,gauche,18,3,14,Volcano Of Life,H,9,deferre_anterieurs_posterieurs,Mlle.M.Maumela,N.Vimond,167540,[],"[9, 0]",19,26,6,76.33333333333333
+148,767,VINCENNES, 13h12,2 Jan,32000,2925,16,gauche,18,3,15,Uleos D'alb,H,10,deferre_anterieurs_posterieurs,M.Grumetz,J.f.Senet,171285,[],"[0, 'D']",33,34,False,False
+149,768,VINCENNES, 13h12,2 Jan,32000,2925,16,gauche,18,3,16,Ulk Du Hauty,A,False,deferre_anterieurs,False,10Q.Seguin,False,[],[],False,4.8,3,76.5
+150,801,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,1,Cool Haufor,H,6,False,W.Baudy,J.Guelpa,18740,['D'],['D'],89,133,2,78.0
+151,802,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,2,Dick Des Malber.,H,5,deferre_anterieurs_posterieurs,Q.Seguin,N.Ensch,19200,[],"['D', 'D']",19,25,False,76.5
+152,803,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,3,Bagheera De Bar.,F,7,False,Mlle.L.Masi,M.Govignon,25320,[6],['D'],33,121,3,78.16666666666667
+153,804,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,4,Deesse D'urzy,F,5,deferre_anterieurs_posterieurs,Mlle.E.Callier,P.Callier,25720,['D'],[1],8.5,6.7,4,78.66666666666667
+154,805,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,5,Copine Primo,F,6,False,M.Bailet,D.Cinier,26080,[],"['D', 3]",35,144,False,False
+155,806,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,6,Cupidon De La C.,H,6,False,R.Thonnerieux,Th.Devouassoux,26240,[],"[8, 'D']",24,40,9,85.33333333333333
+156,807,VINCENNES, 13h12,2 Jan,20000,2925,18,gauche,18,3,7,Colombine,F,6,False,Mlle.M.Ducre,P.Callier,26310,[3],[3],21,14,False,False
+157,808,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,8,Calice,H,6,False,Mlle.M.Lable,E.Ohanessian,26460,[],"[1, 4]",25,17,False,False
+158,809,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,9,Dear Dancer,M,5,False,A.Lamy,V.Foucault,28800,[6],['D'],6,4.1,5,78.66666666666667
+159,810,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,10,Darelia De Fael,F,5,False,AxelLaigron,R.Mourice,29870,[],"[0, 6]",34,45,False,False
+160,811,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,11,Baxo Des Caillo.,H,7,False,Mlle.E.Desmigneux,J.et.LeBec,44760,[],['R'],50,29,False,False
+161,812,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,12,Brut De Pom,M,7,False,Mlle.N.Tether,Cl.Mathe,48840,['A'],['D'],196,139,1,84.83333333333333
+162,813,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,13,Denver Du Bourg,H,5,deferre_anterieurs,F.Desmigneux,Ch.c.Degiorgio,50910,[4],[4],14,10,8,80.16666666666667
+163,814,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,14,Castagneto,M,6,False,Mme.LaetitiaGout,L.Gout,52420,"[6, 0]",[],37,78,7,79.5
+164,815,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,15,Cyr De Courtison,H,6,deferre_anterieurs,ChristopherCorbi.,Ch.a.Mary,52430,[],"[0, 'D']",6.1,6.4,False,False
+165,816,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,16,Cesar D'erah,H,6,deferre_posterieurs,K.Thonnerieux,D.Alexandre,57360,['D'],[0],9.1,16,6,78.83333333333333
+166,817,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,17,Bueno Honey,H,7,deferre_anterieurs_posterieurs,P.y.Verva,D.Alexandre,59385,['D'],['D'],7.6,7.9,False,False
+167,818,VINCENNES, 13h48,2 Jan,20000,2925,18,gauche,18,3,18,Bolivar Jenilou,H,7,deferre_anterieurs_posterieurs,V.Reis,R.Mourice,59880,['D'],['D'],12,22,False,False
+168,943,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,1,Apollo De Ry,H,8,False,Mlle.M.Blot,J.m.Teillet,65780,"[2, 3]",[],5.3,7.3,9,77.66666666666667
+169,944,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,2,American Master,H,8,deferre_anterieurs_posterieurs,A.Abrivard,J.Foin,66420,[],"[2, 5]",3.6,4.5,False,76.5
+170,945,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,3,Voila Narcy,H,9,False,J.Matignon,D.Brossard,73710,[3],[3],27,26,4,76.83333333333333
+171,946,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,4,Alto Haufor,H,8,False,J.d.Ferreira,Y.Henry,75640,[1],[8],8,8.8,False,False
+172,947,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,5,Vraiment Majyc,H,9,deferre_posterieurs,S.Zamparo,J.h.Treich,84370,[8],[0],64,104,1,78.0
+173,948,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,6,Alto Douro,H,8,False,A.Honore,Ch.Feyte,86930,[],"['D', 2]",19,36,2,76.66666666666667
+174,949,VINCENNES, 13h48,2 Jan,20000,2325,18,droite,13,9,7,Business Du Bou.,H,7,False,R..LeCreps,J.p.Lagenebre,89520,"['D', 4]",[],10,6.7,False,False
+175,950,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,8,Voyou De Jaho,H,9,deferre_posterieurs,M.Cantin,J.p.Lagenebre,90640,['D'],['D'],51,81,False,False
+176,951,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,9,Athos De La Crou,H,8,deferre_anterieurs_posterieurs,T.Bord,R.Goncet,91320,[],"[5, 7]",48,69,7,77.5
+177,952,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,10,Chipie Gali,F,6,deferre_anterieurs_posterieurs,CedricTerry,F.Terry,91540,[7],[0],13,10,3,76.83333333333333
+178,953,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,11,Bello Du Tillet,H,7,deferre_anterieurs_posterieurs,P.Gesret,G.Marty,94940,[],"[8, 7]",62,36,5,77.0
+179,954,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,12,Vaillant Winner,H,9,False,Mlle.A.Podio,G.Paille,95305,[0],[0],102,150,False,False
+180,955,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,13,Azdrowia,F,8,False,D.Laisis,R.Lacroix,98680,[],"[0, 'D']",95,145,8,77.33333333333333
+181,956,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,False,Vittorio,False,False,False,False,False,False,False,False,False,False,False,False
+182,957,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,15,Brutus D'havaro.,H,7,deferre_anterieurs_posterieurs,C.Gazengel,D.Cordeau,101980,[],"[5, 1]",16,11,False,False
+183,958,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,16,Beau Look De Ne.,H,7,deferre_posterieurs,Mlle.Ch.Louas,P.m.Manceau,103010,[0],[0],11,5.9,False,False
+184,959,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,17,Cerrine Du Bosc.,F,6,False,Mlle.C.Saout,E.Prudhon,103200,[],"[9, 8]",16,26,6,77.33333333333333
+185,960,VINCENNES, 14h20,2 Jan,20000,2325,18,droite,13,9,18,Vanille De Glye.,F,9,False,M.Hadjira,P.Labrousse,103370,[0],[0],55,95,False,False
