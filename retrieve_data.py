@@ -1,7 +1,3 @@
-"""
-on récupère les rapports placés en plus
-
-"""
 
 
 
@@ -199,7 +195,7 @@ def retrieve_race_information(l_trot,l_plat):
     if(infos_course.split(' ')[0]!=("Trot")):
 
         try:
-            #l_plat=retrieve_race_information_plat(l_plat)
+            l_plat=retrieve_race_information_plat(l_plat)
             return(l_trot,l_plat,True)
         except:
             return(l_trot,l_plat,True)
